@@ -1,0 +1,584 @@
+{
+  "title": "Política de Privacidade",
+  "blocks": [
+    {
+      "type": "title",
+      "text": "POLÍTICA DE PRIVACIDADE – PROGEM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Última alteração: 26/09/2025"
+    },
+    {
+      "type": "paragraph",
+      "text": "O presente documento descreve a Política de Privacidade aplicável à coleta e ao tratamento, total ou parcialmente, de forma automatizada ou não, dos dados pessoais dos Usuários que acessam o site da Progem (https:// https://progem.com.br/). Nosso principal objetivo é esclarecer aos visitantes, aos clientes e aos interessados acerca dos tipos de dados que são coletados, dos motivos da coleta e da forma como o Usuário poderá atualizar, gerenciar ou excluir estas informações."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nossa Política de Privacidade foi elaborada em conformidade com a Lei Federal n. 12.965 de 23 de abril de 2014 (Marco Civil da Internet), com a Lei Federal n. 13.709, de 14 de agosto de 2018 (Lei de Proteção de Dados Pessoais) e com o Regulamento UE n. 2016/679 de 27 de abril de 2016 (Regulamento Geral Europeu de Proteção de Dados Pessoais – RGDP)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certifique-se de ter lido e entendido a Política de Privacidade, que consiste em contrato firmado AWIS DESENVOLVIMENTO DE SOFTWARE LTDA, pessoa jurídica de direito privado com inscrição no CNPJ sob nº 45.839.937/0001-93, daqui em diante chamada como Awis, titular da Plataforma Progem, e você, Usuário."
+    },
+    {
+      "type": "paragraph",
+      "text": "As presentes disposições aplicáveis ao uso e acesso da plataforma estão relacionadas àquelas previstas na Política de Cookies, nos Termos de Uso, na Licença de Uso e no Contrato de Processamento de Dados, instrumentos os quais, a depender do caso, também deverão receber aceitação expressa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ao final desta Política, em anexo, você pode encontrar uma tabela contendo termos e definições técnicas e seus respectivos significados, para facilitar a leitura esclarecida do instrumento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para facilitar a navegação e busca por informações específicas deste instrumento, você pode utilizar o sumário abaixo. É só clicar no item de seu interesse que sua leitura será redirecionada automaticamente ao tópico escolhido:"
+    },
+    {
+      "type": "toc",
+      "text": "1. FORMAS E TIPOS DE DADOS COLETADOS PELA PROGEM",
+      "target": "secao-1"
+    },
+    {
+      "type": "toc",
+      "text": "2. FINALIDADE DOS DADOS COLETADOS",
+      "target": "secao-2"
+    },
+    {
+      "type": "toc",
+      "text": "3. PRAZO DE CONSERVAÇÃO DOS DADOS PESSOAIS",
+      "target": "secao-3"
+    },
+    {
+      "type": "toc",
+      "text": "4. DO COMPARTILHAMENTO DOS DADOS",
+      "target": "secao-4"
+    },
+    {
+      "type": "toc",
+      "text": "5. DA CONFIDENCIALIDADE E POLÍTICA DE PRIVACIDADE",
+      "target": "secao-5"
+    },
+    {
+      "type": "toc",
+      "text": "6. DOS PROCEDIMENTOS DE SEGURANÇA UTILIZADOS",
+      "target": "secao-6"
+    },
+    {
+      "type": "toc",
+      "text": "7. DIREITOS DO USUÁRIO",
+      "target": "secao-7"
+    },
+    {
+      "type": "toc",
+      "text": "8. DAS CONDIÇÕES GERAIS",
+      "target": "secao-8"
+    },
+    {
+      "type": "toc",
+      "text": "9. DO DIREITO APLICADO E DO FORO",
+      "target": "secao-9"
+    },
+    {
+      "type": "heading",
+      "text": "1. FORMAS E TIPOS DE DADOS COLETADOS PELA PROGEM",
+      "id": "secao-1"
+    },
+    {
+      "type": "paragraph",
+      "text": "A coleta de dados pessoais será realizada através de comportamento ativo do Usuário, por meio do preenchimento do formulário de contato presente no site, bem como da utilização da plataforma, após a contratação."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quando o usuário entra em contato através de nosso formulário, são coletadas as seguintes informações:",
+      "marker": "1.1.",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "i. Dados pessoais: nome empresarial, nome completo do responsável pela empresa, e-mail e número de whatsapp para contato são usados no primeiro momento para que possamos retornar o contato e responder sua dúvida ou solicitação."
+    },
+    {
+      "type": "paragraph",
+      "text": "ii. Informações sobre as negociações pretendidas/dúvidas: no campo opcional “Mensagem”, presente no formulário de contato, poderão ser coletados dados inseridos por você, tais como nomes, pretensões de negociações, dúvidas, entre outros."
+    },
+    {
+      "type": "paragraph",
+      "text": "iii. Newsletter: Há, ainda, a possibilidade do endereço de e-mail cadastrado pelo Usuário que aceitar participar da nossa Newsletter ser coletado e armazenado, sendo utilizado para este fim até sua solicitação de cancelamento pelo titular."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nesta hipótese, os dados classificados como sensíveis nos termos do artigo 11 da Lei Geral de Proteção de Dados Pessoais, não serão, a princípio, coletados, excetuando-se as hipóteses descritas nos incisos I e II do referido artigo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Solicitamos, inclusive, que VOCÊ tenha cautela no preenchimento dos campos com mensagem em aberto, a fim de que dados sensíveis ou desnecessários à finalidade pretendida não sejam compartilhados. Na dúvida, não os compartilhe neste momento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quando o Usuário contrata nossos serviços, cria uma conta e utiliza a Plataforma, são coletados vários tipos de dados, passando a serem associados ao seu perfil. São eles:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dados pessoais do Contratante: nome, e-mail, data de nascimento, CPF e/ou celular são usados no primeiro momento para realizar o cadastro em nosso banco de dados e para confirmar suas negociações realizadas via Progem. ",
+      "marker": "a)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Dados pessoais dos Usuários Coletados: para além dos dados pessoais acima citados, a Progem pode, na medida do que entender necessário, coletar dados pessoais dos Usuários indicados pelo Contratante, tais como nome, gênero, cargo/posição, PIS, RG, CTPS, naturalidade, nacionalidade, endereço residencial, e-mail.",
+      "marker": "b)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Informações sobre as negociações realizadas: considerando a finalidade da prestação de serviços da Progem, disposta nos Termos de Uso e nesta Política de Privacidade, é essencial a coleta de informações relacionadas à realização das negociações, tais como: loja da negociação; data e horário; número do pedido, valor gasto e produto ou serviço negociado. Essas informações poderão ser compartilhadas com parceiros da Progem, tais como a Instituição de Pagamentos emissora de boletos, a Instituição de Pagamentos Integrada (Cel Coin), além de utilizadas para o desenvolvimento dos serviços Progem, visando melhorias na experiência dos Usuários e no aprimoramento do Site. Respeitar-se-ão, neste ponto, sempre as disposições legais, prezando-se pela anonimização dos dados e estatísticas antes de qualquer repasse ou venda, incluindo-se em forma de banco de dados, para Parceiros Comerciais ou terceiros.",
+      "marker": "c)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Cookies: basicamente, Cookies são pequenos pacotes de dados enviados de um website ao navegador/aplicativo do visitante. Eles poderão ser coletados pela Progem para identificar os Usuários, através do envio de informações pelo servidor da Progem ao computador ou celular do Usuário. Assim, os Cookies servem para controle interno de audiência e de navegação, podendo ser utilizados para identificar ou rastrear preferências do Usuário, principalmente quando este desrespeitar alguma regra de segurança ou exercer alguma atividade prejudicial ao bom funcionamento do Site, como tentativas de fraudar o serviço. O envio automático de Cookies pode ser livremente alterado e desativado pelo Usuário, acessando as configurações do navegador ou do seu dispositivo. Nós possuímos Política com regras próprias para coleta, utilização e descarte de Cookies, a qual pode ser conferida aqui.",
+      "marker": "d)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Localização: ao utilizar o site, o Usuário autoriza a coleta de dados precisos relacionados à sua localização. O sistema contém a tecnologia de geolocalização, a qual poderá ser fornecida por terceiros, que permite a captura dos dados de localização e recorrência de uso, que são coletados e tratados, de forma anônima, de maneira que o Usuário possa receber Notificações Push personalizadas. Na primeira utilização, o Usuário receberá uma notificação em tela (\"Push\") pedindo permissão para acessar os dados de localização. O Usuário deverá manifestar sobre a notificação, podendo conceder acesso ou não. Contudo, considerando que esse tipo de informação é imprescindível para o bom funcionamento do sistema, caso o Usuário negue acesso à sua localização, os serviços poderão se tornar inacessíveis. A coleta de dados relacionados à localização poderá ser interrompida pelo Usuário a qualquer momento, através das configurações do dispositivo utilizado para executar o Sistema.",
+      "marker": "e)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Informações do dispositivo: poderão ser coletadas informações sobre o dispositivo utilizado para executar sistema, como: modelo do aparelho (hardware), sistema operacional, versão do programa (software), número de série, identificadores de publicidade, informações da rede, entre outros.",
+      "marker": "f)",
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "2. FINALIDADE DOS DADOS COLETADOS",
+      "id": "secao-2"
+    },
+    {
+      "type": "paragraph",
+      "text": "O Tratamento de dados pessoais será legitimado pelo Consentimento do Titular, para Cumprimento de Obrigação Legal e para Execução de Contrato, bem como em razão de Interesse Legítimo da Awis, conforme previsto, respectivamente, nos incisos I, II, V e IX do artigo 7º da LGPD."
+    },
+    {
+      "type": "paragraph",
+      "text": "Os dados pessoais acima descritos são utilizados para diversos fins, de forma automatizada ou não, observando as exigências legais e cumprindo com os requisitos para a manutenção de sua segurança e integridade. "
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre tais finalidades, destacam-se:"
+    },
+    {
+      "type": "paragraph",
+      "text": "a) Coletar dados necessários para eventual contrato de prestação de serviços ou à execução deste, tais como para o cadastro do Contratante e dos Usuários;"
+    },
+    {
+      "type": "paragraph",
+      "text": "b) Facilitar, agilizar e cumprir com as obrigações pactuadas com o Usuário e comunicar-se sobre respostas a perguntas e dúvidas, enviando, quando necessárias, informações sobre serviços, recursos e eventuais promoções;"
+    },
+    {
+      "type": "paragraph",
+      "text": "c) Fornecer e administrar os serviços da Plataforma, descritos nos Termos de Uso, neles incluída a exibição de conteúdo personalizado e a facilitação da comunicação com os Usuários;"
+    },
+    {
+      "type": "paragraph",
+      "text": "d) Fornecer e administrar as funcionalidades da Plataforma, descritas nos Termos de Uso, nelas incluídas o Software de Gestão, os Apps do Associado, do Vendedor e do Colaborador, o Sistema de Gestão do Plano Pet, as Integrações com Whatsapp, Sistemas De Pagamentos, Clubes de Benefícios, Obituário Digital e outras APIs;"
+    },
+    {
+      "type": "paragraph",
+      "text": "e) Disponibilizar a Emissão de Boletos por meio de Instituição de Pagamentos e a Emissão de Cobranças por meio de Instituição de Pagamentos Integrada (Cel Coin, Safe2pay ou terceira instituição);"
+    },
+    {
+      "type": "paragraph",
+      "text": " f) Processar solicitações, pedidos e aquisições de produtos, serviços específicos, informações ou recursos, feitos pelo Usuário, mantendo históricos dessas ações;"
+    },
+    {
+      "type": "paragraph",
+      "text": "g) Comunicar-se com o Usuário sobre:"
+    },
+    {
+      "type": "paragraph",
+      "text": "i) Respostas a perguntas e dúvidas;"
+    },
+    {
+      "type": "paragraph",
+      "text": "ii) Envio de mensagens e informações administrativas, incluindo notificações sobre alterações na Plataforma e atualizações dos termos legais, como os Termos de Uso e a presente Política de Privacidade;"
+    },
+    {
+      "type": "paragraph",
+      "text": "iii) Envio de informações, por meios diversos, sobre eventuais programas de prêmios, novos serviços, novos recursos, promoções, boletins informativos, entre outros;"
+    },
+    {
+      "type": "paragraph",
+      "text": "iv) Envio de notificações push para dispositivos celulares, computadores e tablets do Usuário, as quais podem ser por ele mesmo gerenciadas no próprio sistema ou dispositivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "h) Gerenciar as preferências da conta do Usuário;"
+    },
+    {
+      "type": "paragraph",
+      "text": "i) Facilitar a operação técnica da Plataforma e funcionalidades disponibilizadas, incluindo as soluções de problemas, proteção e prevenção de fraudes ou abusos;"
+    },
+    {
+      "type": "paragraph",
+      "text": "i) Solicitar feedbacks dos Usuários e dar publicidade a eles, se for o caso; "
+    },
+    {
+      "type": "paragraph",
+      "text": "j) Saber mais sobre o perfil e interesses do Usuário, através da vinculação de seus dados a outros fornecidos por provedores de dados terceirizados;"
+    },
+    {
+      "type": "paragraph",
+      "text": "k) Identificar Usuários únicos entre dispositivos;"
+    },
+    {
+      "type": "paragraph",
+      "text": "l) Personalizar anúncios entre Usuários e dispositivos;"
+    },
+    {
+      "type": "paragraph",
+      "text": "m) Melhorar o website, suas funcionalidades e serviços oferecidos;"
+    },
+    {
+      "type": "paragraph",
+      "text": "n) Analisar tendências de tráfego, rastrear aquisições e dados sobre utilização;"
+    },
+    {
+      "type": "paragraph",
+      "text": "o) Anunciar a Progem em websites e aplicativos de terceiros;"
+    },
+    {
+      "type": "paragraph",
+      "text": "p) Conforme exigido ou permitido por lei; ou"
+    },
+    {
+      "type": "paragraph",
+      "text": "q) Prestar contas para Autoridades Públicas e investidores; "
+    },
+    {
+      "type": "paragraph",
+      "text": "r) Como a Progem, a seu critério, considerar necessário para a garantia da segurança ou integridade da Plataforma, dos Usuários e quaisquer outras pessoas ou instituições."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concordando com esta Política de Privacidade, o Usuário também pode optar, indicando separadamente, por aceitar receber notificações por e-mail, SMS, Push, Whatsapp, entre outros mecanismos, com conteúdo de natureza informativa ou promocional relacionados aos nossos serviços."
+    },
+    {
+      "type": "heading",
+      "text": "3. PRAZO DE CONSERVAÇÃO DOS DADOS PESSOAIS",
+      "id": "secao-3"
+    },
+    {
+      "type": "paragraph",
+      "text": "O Usuário/Visitante terá seus dados conservados pelo tempo necessário para cumprimento dos objetivos contratuais firmados, definidos de acordo com a particularidade apresentada. Assim, manteremos seus dados enquanto forem necessários à execução do contrato que pactuamos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Além disso, em conformidade com a Lei Geral de Proteção de Dados Pessoais, as informações poderão ser mantidas nas seguintes hipóteses:"
+    },
+    {
+      "type": "paragraph",
+      "text": "a) Para o cumprimento de obrigação legal ou regulatória pelo controlador;"
+    },
+    {
+      "type": "paragraph",
+      "text": "b)  Para estudo por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;"
+    },
+    {
+      "type": "paragraph",
+      "text": "c) Para a transferência a terceiro, desde que respeitados os requisitos de tratamento de dados dispostos na legislação;"
+    },
+    {
+      "type": "paragraph",
+      "text": "d) Para uso exclusivo do controlador, vedado seu acesso por terceiro, e desde que anonimizados os dados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ou seja, enquanto perdurarem a necessidade de manutenção dos dados ou forem identificadas as causas supracitadas, estes serão armazenados."
+    },
+    {
+      "type": "heading",
+      "text": "4. DO COMPARTILHAMENTO DOS DADOS",
+      "id": "secao-4"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Progem pode compartilhar os dados coletados. Calma! Esse compartilhamento possui propósitos bem definidos e pleno controle pelo time da Progem."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alguns deles são compartilhados com provedores de serviços e parceiros que se integram ao website ou por links a outros sites da internet, para atender às suas necessidades."
+    },
+    {
+      "type": "paragraph",
+      "text": "Considerando a necessidade contratual, os dados dos Usuários poderão ser compartilhados com parceiros comerciais que auxiliem no cumprimento da prestação pactuada. Esse compartilhamento pode acontecer, por exemplo, pela adoção, pelo Usuário, das funcionalidades de Emissão de Boletos por meio de Instituição de Pagamentos e de Emissão de Cobranças por meio de Instituição de Pagamentos Integrada (Cel Coin, Safe2pay ou instituição terceira), cabendo àquele a submissão e aceite às políticas, normas e regras estipuladas por estas instituições. O mesmo cenário se encontra na adoção de Clubes de Benefícios, Planos Pet, entre outros."
+    },
+    {
+      "type": "paragraph",
+      "text": "É necessário, ainda, o compartilhamento de alguns de seus dados com provedores de serviços e parceiros, especialmente para que a Progem consiga obter métricas sobre o tráfego em nosso site. Contudo, preza-se, sempre que possível, pela anonimização destes dados previamente ao seu compartilhamento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Os dados coletados também podem ser compartilhados, segundo necessidade, para fins de segurança, exigência legal, administrativa ou judicial, ou como parte de reestruturação corporativa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ainda, os dados podem ser compartilhados de outras formas, se não identificados ou devidamente anonimizados, ou através da obtenção do seu consentimento."
+    },
+    {
+      "type": "heading",
+      "text": "5. DA CONFIDENCIALIDADE E POLÍTICA DE PRIVACIDADE",
+      "id": "secao-5"
+    },
+    {
+      "type": "paragraph",
+      "text": "É compromisso da Progem manter em sigilo as informações recebidas do Usuário. Exclui-se da obrigação aqui prevista a divulgação decorrente de determinação de autoridades competentes e as demais exceções previstas nesta Política de Privacidade."
+    },
+    {
+      "type": "paragraph",
+      "text": "O Usuário declara-se de acordo e autoriza a Progem a utilizar as informações, mesmo que confidenciais, para criação de banco de dados, respeitando a individualidade e identificação de cada Usuário, observadas as normas relativas à proteção dos dados."
+    },
+    {
+      "type": "paragraph",
+      "text": "O dever de confidencialidade ora estipulado permanecerá vigente por prazo indeterminado, mesmo após o término da relação entre a Progem e o Usuário, enquanto as informações confidenciais não se tornarem domínio público e mantiverem seu potencial nocivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Com o intuito de melhorar os serviços e a experiência do Usuário, a Progem poderá coletar e utilizar informações sobre o desempenho dos serviços, do computador e do uso das funcionalidades pelo Usuário, preservando-se a individualidade e identificação de cada Usuário."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ao acessar o website e, especialmente, utilizar o formulário de contato, o Usuário autoriza a Progem e declara-se ciente de que as informações coletadas são necessárias à plena utilização deste serviço. As informações poderão ser armazenadas, processadas ou acessadas desde que seja respeitada a legislação brasileira, em especial, a Lei nº 12.965/14 (“Marco Civil da Internet”), o Decreto nº 8.771, de 11/05/16 (“Decreto”) e a Lei nº 13.709/18 (“Lei Geral de Proteção de Dados Pessoais”)."
+    },
+    {
+      "type": "heading",
+      "text": "6. DOS PROCEDIMENTOS DE SEGURANÇA UTILIZADOS",
+      "id": "secao-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Plataforma Progem adota medidas de segurança adequadas com base no tipo e na confidencialidade dos dados que são coletados e armazenados, de modo a protegê-los contra acesso não autorizado, alteração, divulgação ou destruição."
+    },
+    {
+      "type": "paragraph",
+      "text": "Todavia, o Usuário deve ter ciência de que nenhum sistema é 100% seguro, não havendo proteção intransponível a dados e informações. Dessa forma, apesar do emprego das melhores tecnologias e dos maiores esforços, não há como a Progem garantir que os dados trocados entre Usuário e Plataforma, ou daqueles coletados por outros meios discriminados neste instrumento, estejam livres de acesso não autorizado por terceiros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Toda informação pessoal será transmitida por meio de uma página de Internet segura, que protege e encripta a informação. A informação pessoal será armazenada em servidores ou meios magnéticos que mantêm altos padrões de segurança. A Progem empregará seus melhores esforços para manter a confidencialidade e segurança de que trata esta seção, mas não responderá por prejuízos que possam derivar da violação destas medidas por parte de terceiros que utilizem as redes públicas ou a Internet para acessar esta informação. Ficam excetuadas do disposto nesta cláusula as circunstâncias em que a Progem constitua parceria com outras empresas para disponibilizar serviços de valor agregado a seus Usuários, tais como as funcionalidades de Emissão de Boletos por meio de Instituição de Pagamentos e de Emissão de Cobranças por meio de Instituição de Pagamentos Integrada (Cel Coin, Safe2pay ou instituição terceira)."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Progem adota mecanismos de segurança eficazes para o tratamento de dados dos Usuários, assegurando a privacidade, autenticidade e inviolabilidade das informações, conforme determinam o Marco Civil da Internet, o Decreto nº 8.771/16 e a Lei Geral de Proteção de Dados Pessoais."
+    },
+    {
+      "type": "paragraph",
+      "text": "Todos os dados coletados pelo cadastro, bem como pela utilização do Site e Plataforma, são armazenados em um banco de dados reservado e com acesso restrito a alguns funcionários e prestadores de serviços habilitados, que são obrigados, por contrato, a manter a confidencialidade das informações e não as utilizar inadequadamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nosso banco de dados é equipado com mecanismos de autenticação de acesso aos registros, permitindo a catalogação detalhada desses acessos. Assim, é possível realizar a verificação posterior, indicando o momento, a duração, o arquivo e a identidade do funcionário autorizado que realizou o referido acesso aos registros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Apesar desse mecanismo garantir a inviolabilidade dos dados coletados, é importante que o Usuário realize procedimentos básicos de segurança em seu celular e/ou computador, através da utilização de ferramentas como antivírus, além de não fornecer ou informar sua senha a quaisquer terceiros."
+    },
+    {
+      "type": "paragraph",
+      "text": "A manutenção em segurança de sua senha, por parte do Usuário, se mantém como uma medida essencial à sua própria segurança e de seus dados, lhe incumbindo a não divulgação ou compartilhamento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Qualquer caso de suspeita de violação de sua senha, sua conta ou seus dados, cabe ao Usuário, se possível, alterar a primeira de forma imediata, passando a comunicar a Progem para suporte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Em caso de dúvida sobre as medidas de segurança, basta ao Usuário/Visitante comunicar a Infusão Digital para suporte, através do e-mail privacy@progem.com.br."
+    },
+    {
+      "type": "heading",
+      "text": "7. DIREITOS DO USUÁRIO",
+      "id": "secao-7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Em cumprimento à regulamentação vigente e aplicável, a Progem respeita e garante aos Titulares de dados a possibilidade de apresentação de solicitações baseadas nos seguintes direitos:"
+    },
+    {
+      "type": "paragraph",
+      "text": "a)Confirmação da existência de tratamento;"
+    },
+    {
+      "type": "paragraph",
+      "text": "b)Acesso aos dados;"
+    },
+    {
+      "type": "paragraph",
+      "text": "c)Correção de dados incompletos, inexatos ou desatualizados;"
+    },
+    {
+      "type": "paragraph",
+      "text": "d)Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade;"
+    },
+    {
+      "type": "paragraph",
+      "text": "e)Portabilidade de seus dados a outro fornecedor de serviço ou produto, mediante requisição expressa pelo Usuário/Visitante, de acordo com a regulamentação da ANPD, observados os segredos comercial e industrial;"
+    },
+    {
+      "type": "paragraph",
+      "text": "f)Eliminação dos dados tratados com consentimento do Usuário/Visitante, exceto nas hipóteses previstas na LGPD;"
+    },
+    {
+      "type": "paragraph",
+      "text": "g)Informações sobre as entidades públicas e privadas com as quais Infusão Digital compartilhou seus dados;"
+    },
+    {
+      "type": "paragraph",
+      "text": "h)Informação sobre a possibilidade de não fornecer o seu Consentimento, bem como de ser informado sobre as consequências, em caso de negativa;"
+    },
+    {
+      "type": "paragraph",
+      "text": "i)Revogação do Consentimento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Valendo-se de caminhos disponíveis no próprio website ou no dispositivo que utiliza, o Usuário pode optar por não fornecer dados ou restringir seu compartilhamento. Todavia, é possível que a opção torne determinados recursos inoperantes, parcial ou completamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ocorrendo dúvidas sobre quais e como são os dados coletados ou, ainda, a respeito da realização de algum dos procedimentos de restrição de compartilhamento, poderá o Usuário entrar em contato com o suporte da Progem, no e-mail privacy@progem.com.br. "
+    },
+    {
+      "type": "paragraph",
+      "text": "O Usuário também possui o direito de acessar, atualizar e excluir os dados pessoais compartilhados com a Plataforma, da seguinte forma:"
+    },
+    {
+      "type": "paragraph",
+      "text": "a) Dados fornecidos diretamente pelo Usuário: basta acessar sua conta e atualizá-la, a qualquer momento;"
+    },
+    {
+      "type": "paragraph",
+      "text": "b) Acesso aos dados coletados e pedidos de correção: o Usuário pode, a qualquer momento, enviando e-mail para privacy@progem.com.br, solicitar acesso aos dados que a Progem coletou e possui a seu respeito, através da utilização da Plataforma. O mesmo procedimento pode ser tomado para pedidos de correção de dados."
+    },
+    {
+      "type": "paragraph",
+      "text": "c) Encerramento de conta: Os usuários poderão encerrar suas contas, seguindo o procedimento na própria Plataforma. Em caso de problemas ou dificuldades, basta entrar em contato via e-mail privacy@progem.com.br. É de suma importância frisar que, apesar do encerramento da conta, é possível que alguns dos dados do Usuário ainda fiquem visíveis a outras pessoas, porque estes podem tê-los coletado e mantido sob sua guarda, independente da Progem. Ademais, a manutenção dos dados coletados pode ocorrer se a Progem entender necessária que alguns deles sejam retidos e até divulgados enquanto houver propósito legítimo, especialmente para fins legais."
+    },
+    {
+      "type": "paragraph",
+      "text": "O formulário “Contato” e o cadastro de Usuários na Plataforma se destina a pessoas físicas, maiores de idade, ou seja, que tenham 18 (dezoito) anos completos ou mais no momento do cadastro e com capacidade legal para contratar. Dessa forma, a Progem reconhece o interesse e sensibilidade dos dados e da privacidade de menores e incapazes em geral, incentivando aos pais e responsáveis a assunção de papel ativo nas atividades online daqueles. Todavia, caso estes considerem que a Progem coletou algum dado de incapaz, poderão imediatamente entrar em contato através do e-mail privacy@progem.com.br."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por fim, a qualquer momento, conseguirá o Usuário ativar ou desativar quaisquer das formas de comunicação Progem mencionadas acima. Para tanto, basta fazer uma solicitação endereçada ao e-mail privacy@progem.com.br, informando sua identificação pessoal e sua intenção de bloquear o recebimento de notificações."
+    },
+    {
+      "type": "heading",
+      "text": "8. DAS CONDIÇÕES GERAIS",
+      "id": "secao-8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Em caso de dúvidas, poderá o Usuário encaminhá-las para o e-mail privacy@progem.com.br. A Progem se coloca à disposição para prestar todos os esclarecimentos necessários, sejam eles relacionados a esta Política de Privacidade ou à utilização do website/plataforma."
+    },
+    {
+      "type": "paragraph",
+      "text": "A nulidade ou invalidade de qualquer dos itens dispostos aqui nesta Política de Privacidade não gera nulidade ou invalidade dos demais. As disposições consideradas nulas ou inválidas serão reescritas, de modo a refletir a intenção inicial de sua previsão em conformidade com a legislação aplicável, e inseridas em nova versão do instrumento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta Política de Privacidade tem sua vigência iniciada, por tempo indeterminado, a partir da sua publicação e vinculará a Progem e os Usuários desde o aceite destes, tácito ou expresso."
+    },
+    {
+      "type": "heading",
+      "text": "9. DO DIREITO APLICADO E DO FORO",
+      "id": "secao-9"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para a solução das controvérsias decorrentes do presente instrumento de Política de Privacidade, será aplicado integralmente o Direito brasileiro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eventuais litígios deverão ser apresentados no Foro da Comarca de Pato Branco – Estado do Paraná."
+    },
+    {
+      "type": "heading",
+      "text": "ANEXO I – TERMOS E DEFINIÇÕES",
+      "id": "secao-10"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para efeitos da Política de Privacidade a que este Anexo se vincula, as seguintes palavras e expressões terão os respectivos significados, a elas atribuídos:"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANPD (Autoridade Nacional de Proteção de Dados): órgão da administração pública responsável por zelar, implementar e fiscalizar o cumprimento da Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018) em todo o território nacional.",
+      "marker": "g)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Colaborador(es): Funcionários/empregados que trabalham na Progem em todos os níveis, incluindo executivos, conselheiros, diretores, estagiários e aprendizes.",
+      "marker": "h)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Consentimento: Manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma finalidade determinada.",
+      "marker": "i)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais. Para a presente Política de Privacidade, trata-se da Progem.",
+      "marker": "j)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Dado Pessoal: informação relacionada a pessoa natural identificada ou identificável.",
+      "marker": "k)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Dado Pessoal Sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural.",
+      "marker": "l)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Data Protection Officer (DPO) ou Encarregado de Dados: é a pessoa indicada pelo Controlador para atuar como um canal de comunicação entre o Controlador, os Titulares dos dados pessoais e a ANPD. Devido ao enquadramento da Progem como agente de tratamento de pequeno porte, de acordo com as normativas da ANPD, resta ela dispensada da indicação de um DPO, bastando a manutenção de canal de comunicação específico, qual seja, o e-mail privacy@progem.com.br.",
+      "marker": "m)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Incidente ou Violação da Proteção de Dados: termo utilizado para se referir a uma violação de segurança que cause, em caráter acidental ou ilegal, o acesso indevido, a destruição, a perda, a alteração, a comunicação ou qualquer forma de Tratamento inadequado ou ilícito de dados.",
+      "marker": "n)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Lei Geral de Proteção de Dados Pessoais ou LGPD: se refere à Lei nº 13.709/2018, acrescida e acompanhada de demais normativas e regulamentos relacionados ao processamento e proteção de dados pessoais aplicáveis à relação entre as Partes da presente Política de Privacidade.",
+      "marker": "o)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Titular: pessoa natural a quem se referem os dados pessoais que são objeto de Tratamento. Para a presente Política de Privacidade, trata-se do Usuário/Visitante.",
+      "marker": "p)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Tratamento ou Processamento: toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração.",
+      "marker": "q)",
+      "level": 1
+    }
+  ]
+}

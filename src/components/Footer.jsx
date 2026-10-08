@@ -109,8 +109,8 @@ export default function Footer(){
           <nav className="flex items-center gap-4">
             <a href="/quem-somos">Quem somos</a>
             <a href="/taxas">Taxas & Cobrança</a>
-            <a href="#">Termos</a>
-            <a href="#">Privacidade</a>
+            <a href="/termos-de-uso">Termos</a>
+            <a href="/politica-de-privacidade">Privacidade</a>
             <a href="#">Suporte</a>
           </nav>
         </div>

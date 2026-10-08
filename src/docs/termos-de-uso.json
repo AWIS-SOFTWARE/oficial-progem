@@ -1,0 +1,609 @@
+{
+  "title": "Termos de Uso",
+  "blocks": [
+    {
+      "type": "title",
+      "text": "TERMOS DE USO – PROGEM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Última alteração: 26/09/2025"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estes Termos de Uso descrevem os termos e as condições aplicáveis ao acesso e uso das funcionalidades da Plataforma Progem por você, Usuário."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certifique-se de ter lido e entendido estes Termos de Uso, que consistem em contrato firmado entre AWIS DESENVOLVIMENTO DE SOFTWARE LTDA, pessoa jurídica de direito privado com inscrição no CNPJ sob nº 45.839.937/0001-93, daqui em diante chamada como Awis, titular da Plataforma Progem, e você, Usuário, após a manifestação do seu “Aceite”."
+    },
+    {
+      "type": "paragraph",
+      "text": "O “Aceite” dos termos descritos a seguir é indispensável para qualquer forma de utilização da Plataforma e dos serviços a ela relacionados. Se você não concordar com os termos que se seguem, não poderá utilizar ou acessar o site e a Plataforma a qualquer título."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estes Termos de Uso vinculam-se à Licença de Uso, ao Contrato de Processamento de Dados (DPA) e à Política de Privacidade, instrumentos os quais, de mesma forma, deverão ser assinados e/ou receber aceitação expressa e independente por você, Usuário, ou por seu superior, responsável pela contratação da Plataforma, aqui chamado de Contratante. Todos devem ser lidos e interpretados em conjunto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para facilitar a navegação e busca por informações específicas deste instrumento, você pode utilizar o sumário abaixo. É só clicar no item de seu interesse que sua leitura será redirecionada automaticamente ao tópico escolhido:"
+    },
+    {
+      "type": "toc",
+      "text": "1) SIGNIFICADOS DE TERMOS ESPECÍFICOS",
+      "target": "secao-1"
+    },
+    {
+      "type": "toc",
+      "text": "2) INTRODUÇÃO",
+      "target": "secao-2"
+    },
+    {
+      "type": "toc",
+      "text": "3) DA CONTA E DO CADASTRO DO USUÁRIO",
+      "target": "secao-3"
+    },
+    {
+      "type": "toc",
+      "text": "4) DIRETRIZES GERAIS DO USUÁRIO",
+      "target": "secao-4"
+    },
+    {
+      "type": "toc",
+      "text": "5) DIREITOS DA PLATAFORMA PROGEM",
+      "target": "secao-5"
+    },
+    {
+      "type": "toc",
+      "text": "6) DAS FUNCIONALIDADES DA PLATAFORMA",
+      "target": "secao-6"
+    },
+    {
+      "type": "toc",
+      "text": "7) DA VIGÊNCIA E ENCERRAMENTO DESTES TERMOS DE USO",
+      "target": "secao-7"
+    },
+    {
+      "type": "toc",
+      "text": "8) DAS CONDIÇÕES GERAIS",
+      "target": "secao-8"
+    },
+    {
+      "type": "toc",
+      "text": "9) DAS DISPOSIÇÕES FINAIS",
+      "target": "secao-9"
+    },
+    {
+      "type": "heading",
+      "text": "SIGNIFICADOS DE TERMOS ESPECÍFICOS",
+      "id": "secao-1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Toda vez que houver menção aos termos “Progem”, “nós” ou “nossos” estaremos nos referindo à Plataforma Progem; bem como toda vez que houver menção aos termos “você”, “Usuário”, “seu”, “sua”, estaremos nos referindo a você, Usuário, que está consentindo com estes Termos de Uso para fazer uso e acesso à Plataforma.",
+      "marker": "1)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Para efeitos do presente, as seguintes palavras e expressões terão os respectivos significados a eles atribuídos abaixo:",
+      "marker": "2)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Plataforma (ou Plataforma Progem ou Progem): plataforma online que se destina à gestão empresarial e de contratos, com funcionalidades e rotinas específicas.",
+      "marker": "a)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Contratante: pessoa física, maior de 18 anos e capaz, que assina a Licença de Uso e o Contrato de Processamento de Dados (DPA) e adere aos Termos de Uso e à Política de Privacidade da Plataforma Progem. Ao cadastrar-se no sistema, torna-se apta a acessá-lo, alimentá-lo e utilizar de suas funcionalidades. ",
+      "marker": "b)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Instituição de Pagamentos: instituição responsável por oferecer serviços vinculados a meios de pagamentos e emissão de boletos, da qual o Usuário se submete integralmente ao disposto em suas políticas e termos de uso ao utilizar suas soluções.",
+      "marker": "c)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Instituição de Pagamentos Integrada (Cel Coin, Safe2pay ou terceira instituição): instituição parceria com integração direta à Plataforma Progem, responsável por oferecer serviços vinculados a meios de pagamentos e emissão de boletos, da qual o Usuário se submete integralmente ao disposto em suas políticas e termos de uso, devendo se registrar na Plataforma Cel Coin, Safe2pay ou de terceira instituição para utilizar de seus serviços e usufruir das suas taxas e condições, disponíveis especialmente aos Usuários Progem.",
+      "marker": "d)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Usuários: pessoas físicas, maiores de 18 anos e capazes, que são indicadas pelo Contratante e, ao cadastrarem-se no sistema, tornam-se aptas a acessá-lo, alimentá-lo e utilizar de suas funcionalidades. O número de Usuários é limitado pelo Plano optado pelo Contratante. ",
+      "marker": "e)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Software ou Sistema: programa de computador que executa automaticamente rotinas para cumprir determinado comando.",
+      "marker": "f)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Módulos: conjunto de rotinas específicas dentro do Software, disponibilizando funcionalidades específicas ao Usuário.",
+      "marker": "g)",
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "INTRODUÇÃO",
+      "id": "secao-2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Considerando que:",
+      "marker": "3)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Progem é uma plataforma de tecnologia, com o objetivo de criar uma melhor experiência na gestão administrativa do estabelecimento do Contratante, através das ferramentas e diferenciais tecnológicos fornecidos, potencializando a estes a aquisição, retenção e fidelização de clientes;",
+      "marker": "a)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "A Plataforma Progem possui ferramentas tecnológicas que permitem que os Usuários realizem a gerência de seus estabelecimentos, sem precisarem desenvolver uma plataforma online própria;",
+      "marker": "b)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "A Plataforma Progem não se responsabiliza pelas informações e dados incluídos na plataforma pelos Usuários cadastrados, bem como se exime de responsabilidade perante a qualidade e eventuais consequências, mesmos que pessoais, dos dados inseridos, sendo todas de exclusiva responsabilidade do Usuário que alimentou o sistema;",
+      "marker": "c)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "O Contratante, desejando utilizar a Plataforma Progem, insere os dados cadastrais no formulário de adesão, firma a competente Licença de Uso e o Contrato de Tratamento de Dados (DPA), bem como aceita os Termos de Uso e a Política de Privacidade;",
+      "marker": "d)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Ao indicar os Usuários que poderão se valer do sistema, estes, de mesmo modo, aceitam os Termos de Uso e a Política de Privacidade;",
+      "marker": "e)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "No caso de futuras alterações dos Termos de Uso e da Política de Privacidade, serão os Usuários e o Contratante instados, do mesmo modo, a aceitar seus termos, sob pena de vedação de acesso à Plataforma;",
+      "marker": "f)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "É de total responsabilidade do Contratante e dos Usuários verificarem todas as condições descritas nestes termos antes de efetuar inserções de dados no sistema;",
+      "marker": "g)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Todas as funcionalidades descritas nestes Termos de Uso estão sujeitas à disponibilidade da Plataforma Progem.",
+      "marker": "h)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "O objeto destes Termos de Uso é a prestação de serviços de aprimoramento na gestão de informações e processos de seus estabelecimentos pela Awis ao Usuário, consistente na disponibilização das ferramentas tecnológicas da Plataforma Progem.",
+      "marker": "4)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "A aceitação destes Termos de Uso é indispensável para a utilização dos serviços prestados pela Awis. Cabe ao interessado ler, entender e concordar com todas as condições estabelecidas neste documento antes de cadastrar-se como Usuário.",
+      "marker": "5)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "A Awis não se responsabiliza por falhas, erros, interrupções, maus funcionamentos, atrasos ou outras imperfeições que possam surgir, ainda que por ela ocasionados, não garantindo a prestação de serviço de forma ininterrupta, sem momentos de indisponibilidade ou lentidão. A Awis considera que tais situações são previsíveis e possíveis de ocorrer em se tratando de serviços de tecnologia.",
+      "marker": "6)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Os sistemas necessários para o funcionamento da conta e de toda a Plataforma podem eventualmente não estar disponíveis, na medida em que dependem de serviços prestados por terceiros, como empresas de telecomunicações e provedores de acesso à Internet, e em casos de falhas técnicas ou problemas com a Internet, interrupção ou queda do sistema, nos links ou Ferramentas ou por qualquer outra circunstância alheia à Awis, o que pode, ainda, porventura invalidar ou cancelar as negociações realizadas. Além disso, poderão o uso e o acesso à Plataforma serem suspensos em caso fortuito ou força maior como, por exemplo, em caso de ataques cibernéticos e outros que possam prejudicar as funcionalidades da Plataforma e colocar em risco as informações dos Usuários e de seus clientes. Os Usuários não poderão responsabilizar a Awis, ou exigir ressarcimento algum, em virtude de prejuízos resultantes das dificuldades mencionadas, assim como por qualquer outro tipo de dano oriundo do disposto neste instrumento.",
+      "marker": "7)",
+      "level": 0
+    },
+    {
+      "type": "heading",
+      "text": "DA CONTA E DO CADASTRO DO USUÁRIO",
+      "id": "secao-3"
+    },
+    {
+      "type": "paragraph",
+      "text": "O Usuário só será elegível à criação de conta na Plataforma caso seja pessoa física e maior de idade, ou seja, tenha 18 (dezoito) anos completos ou mais no momento do cadastro, e tenha capacidade legal para contratar. Os Usuários e seus respectivos dados serão indicados pelo Contratante dentro da própria Plataforma, respeitando os limites do plano contratado.",
+      "marker": "8)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Ao utilizar a Plataforma, o Usuário declara preencher todos os requisitos dos itens anteriores, sob sua responsabilidade.",
+      "marker": "9)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Para a utilização da Plataforma, o Contratante e/ou Usuário obriga-se a preencher adequadamente e com informações corretas todos os dados solicitados no momento do credenciamento. Cabe a eles ainda atualizá-las sempre que necessário, mantendo sua veracidade, sob pena de suspensão dos serviços e/ou da conta e da responsabilização nas esferas cível, administrativa e criminal previstas em Lei.",
+      "marker": "10)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "O Contratante receberá um e-mail de validação do seu cadastro no endereço informado. A conta só será criada mediante validação de e-mail.",
+      "marker": "11)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "A Conta é única, pessoal e intransferível. Da mesma forma, o nome e CPF informados durante o cadastro do Contratante ou do Usuário somente poderão ser associados a um único Contratante/Usuário. Em nenhuma hipótese será aceito pela Progem o cadastro de novas contas de mesma titularidade.",
+      "marker": "12)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Não é permitido ao Contratante ou Usuário transferir sua conta a outrem, nem utilizar a conta de qualquer outra pessoa. Caso o Usuário precise entrar em contato com a Progem para solicitar acesso a uma conta, o atendimento à solicitação ficará a exclusivo critério desta, que somente o concederá se forem fornecidas as informações necessárias para comprovação da titularidade.",
+      "marker": "13)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Em caso de falecimento do Usuário, a respectiva conta será encerrada, assim que a informação seja de conhecimento da Plataforma.",
+      "marker": "14)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "O Usuário será o único responsável pelo seu login e senha e responderá por todos os atos praticados com estes. Dessa forma, é dever do Usuário zelar pela guarda e confidencialidade de sua senha. O Usuário é completamente responsável por sua conta e por tudo o que acontecer com ela, incluindo quaisquer danos ou prejuízos causados (à Progem, ao Contratante ou a quaisquer outras pessoas), mesmo em situações nas quais a conta tenha sido utilizada por alguém sem autorização.",
+      "marker": "15)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "O Contratante e/ou Usuário concorda que os dados fornecidos no momento do cadastro na Plataforma poderão ser compartilhados com o Contratante, com gestores dos meios e instituições de pagamento eleitos (tanto as Instituições de Pagamentos Integradas – Cel Coin, Safe2pay ou terceira instituição – quanto as demais Instituições de Pagamentos), bem como com demais parceiros que prestem suas atividades através ou em parceria com a Plataforma, para a efetiva realização dos serviços, bem como em caso de: infração destes Termos de Uso que possa provocar danos a outros Usuários, ao Contratante, à Plataforma ou a terceiros; suspeita de fraude; disputas; indícios de ilícitos cometidos pelo Usuário; quando necessário para o cumprimento de obrigações contratuais firmadas entre as partes (Plataforma, Contratante e Usuário); em caso de interesse legítimo para atendimento de legislação aplicável, especialmente de cunho fiscal e tributário, dentre outros, hipóteses detalhadas conforme a Política de Privacidade aplicável.",
+      "marker": "16)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "O Usuário se compromete a não utilizar os serviços da Plataforma para a realização de negócios ou divulgações de qualquer gênero relacionados a atividades ilegais, tais como, mas não limitado a, bestialidade, pedofilia, prostituição, tráfico de drogas, tráfico de pessoas; lavagem de dinheiro; compra e venda de armas de fogo e jogos de azar, inclusive bingo e apostas em geral; qualquer tipo e quantidade de drogas; compra e venda de animais, produtos que dependam e não possuam uma devida homologação de órgãos governamentais, produtos e serviços considerados ilegais pela legislação brasileira.",
+      "marker": "17)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "A Awis se reserva o direito de suspender, limitar, bloquear ou inativar os serviços sobre os recursos constantes da Plataforma por ela gerida, por tempo indeterminado, não assistindo ao Usuário, por essa razão, qualquer tipo de indenização ou ressarcimento em caso de: violação aos termos destes Termos de Uso e da Política de Privacidade; suspeita de fraude; não fornecimento dos documentos solicitados; constatação de dados incorretos ou inverídicos fornecidos pelo Usuário; condutas ilícitas e/ou fraudulentas; envolvimento do Usuário em qualquer ato de corrupção, ativa ou passiva; envolvimento em ações caracterizadas como suborno, conflito de interesse, financiamento ao terrorismo, lavagem de dinheiro; qualquer outra participação em crimes descritos em todas as Leis das jurisdições pertinentes que resultem aplicáveis.",
+      "marker": "18)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Para utilização das ferramentas, o Usuário deverá possuir acesso à internet, conforme especificações de compatibilidade informadas, sendo de sua total responsabilidade a aquisição de equipamentos (computador, smartphone, tablet) e programas (navegador) necessários à navegação da Plataforma e o provimento adequado de todos os recursos da internet (como conexão), sem exceção, bem como manter o ambiente do computador, smartphone e/ou tablet seguros, com uso de ferramentas disponíveis como antivírus e ﬁrewall, entre outras, atualizadas, de modo a contribuir na prevenção de riscos eletrônicos.",
+      "marker": "19)",
+      "level": 0
+    },
+    {
+      "type": "heading",
+      "text": "DIRETRIZES GERAIS DO USUÁRIO",
+      "id": "secao-4"
+    },
+    {
+      "type": "paragraph",
+      "text": "O Contratante e o Usuário só poderão utilizar a Plataforma Progem para fins lícitos. Eles são responsáveis por todo o conteúdo que eventualmente nela inserirem.",
+      "marker": "20)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Qualquer conduta contrária ao previsto nestes Termos de Uso, praticada pelo Usuário e/ou Contratante, poderá ser punida:",
+      "marker": "21)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Com a suspensão imediata do acesso à Conta do Usuário;",
+      "marker": "a)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Com o bloqueio da conta do Usuário.",
+      "marker": "b)",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "A suspensão do acesso à Conta do Usuário perdurará enquanto a Awis, a seu exclusivo critério, entender como cabível a medida aplicada, não cabendo àquele qualquer direito mediante tal decisão.",
+      "marker": "22)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Nos casos de bloqueio da conta do Usuário, todos os acessos serão automaticamente cancelados, não assistindo àquele, por essa razão, qualquer direito de indenização ou ressarcimento.",
+      "marker": "23)",
+      "level": 0
+    },
+    {
+      "type": "heading",
+      "text": "DIREITOS DA PLATAFORMA PROGEM",
+      "id": "secao-5"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Awis é proprietária da Plataforma Progem, incluindo sistema, site, aplicativos e serviços, presentes e futuros, bem como itens tais como logotipos, APIs, códigos e conteúdo criados por seus funcionários. É expressamente proibido adulterá-los ou utilizá-los sem autorização.",
+      "marker": "24)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Eventuais feedbacks, sugestões e comentários que, eventualmente, sejam fornecidos pelo Contratante e/ou Usuário à Awis sobre a Plataforma, são totalmente voluntários, tendo esta a liberdade de observá-los e utilizá-los, a seu exclusivo critério.",
+      "marker": "25)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Ao acessar a Plataforma, é proibido ao Contratante e/ou ao Usuário:",
+      "marker": "26)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Copiar ou transferir de qualquer forma, total ou parcialmente, sob quaisquer modalidades, gratuita ou onerosamente, provisória ou permanentemente, as ferramentas tecnológicas da Plataforma Progem;",
+      "marker": "a)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": " Modificar as características da Plataforma Progem;",
+      "marker": "b)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": " Criar programas de computador para utilização da Plataforma Progem;",
+      "marker": "c)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Acessar, adulterar ou usar áreas não públicas da Plataforma, sistemas informáticos ou sistemas de entrega técnica dos provedores de serviços da Progem;",
+      "marker": "d)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Desativar, interferir em ou tentar burlar qualquer recurso da Plataforma relacionado à segurança ou investigar, verificar ou testar a vulnerabilidade de qualquer dos sistemas Progem;",
+      "marker": "e)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Copiar, modificar, criar obras derivadas, praticar engenharia reversa, praticar montagem reversa ou, de alguma forma, tentar decifrar qualquer código-fonte ou conteúdo da Plataforma Progem;",
+      "marker": "f)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Acessar, pesquisar ou tentar pesquisar nossa Plataforma por qualquer meio, automatizado ou não, que não seja por meio de nossas funcionalidades de pesquisa atualmente disponíveis, fornecidas pela própria Plataforma;",
+      "marker": "g)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "De alguma forma, usar a Plataforma para enviar informações de identificação de origem alteradas, enganosas ou falsas, tais como o envio de comunicações por e-mail que pareçam falsamente serem da Awis, ou interferir no acesso, interrompê-lo (ou tentar fazê-lo) de qualquer usuário, host ou rede, incluindo, entre outros, o envio de vírus, sobrecarga, flooding, spam ou bombardeios de e-mail na Plataforma ou serviços, ou de alguma forma nela interferir ou criar uma carga indevida;",
+      "marker": "h)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Violar ou tentar violar quaisquer medidas de segurança da Plataforma, ou tirar proveito de qualquer inconsistência do sistema para obter vantagem para si próprio ou para terceiros, ou causar prejuízo à Progem, demais Usuários e/ou a terceiros, especialmente ao acessar ou tentar acessar qualquer conta de Usuário da Plataforma, ou, ainda, ao obter e divulgar a senha de Usuário da Plataforma Progem; e",
+      "marker": "i)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Submeter à Plataforma qualquer informação falsa, imprecisa ou incompleta.",
+      "marker": "j)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "O Usuário se compromete a não infringir quaisquer direitos relativos a marcas, patentes, segredo industrial ou, ainda, direito de propriedade, de representação e autoral, responsabilizando-se perante a Awis e seus parceiros pelas obrigações ora assumidas, bem como a não usar o nome, marca, logomarca ou qualquer tipo de sinal distintivo destes, sem o consentimento escrito e prévio, sendo que qualquer autorização recebida será entendida restritivamente, exclusivamente para a finalidade solicitada.",
+      "marker": "27)",
+      "level": 0
+    },
+    {
+      "type": "heading",
+      "text": "DAS FUNCIONALIDADES DA PLATAFORMA",
+      "id": "secao-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sem prejuízo de atualizações e/ou melhorias, a Plataforma Progem conta com as seguintes funcionalidades:",
+      "marker": "28)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Gestão de contratos, compras, vendas, serviços, cobranças, financeiro, estoque e operação;",
+      "marker": "a)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Apps integrados para associados, vendedores e colaboradores;",
+      "marker": "b)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Gestão de planos, inclusive de planos pet fornecidos por parceiros e/ou clientes;",
+      "marker": "c)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Emissão de Boletos por meio de Instituição de Pagamentos;",
+      "marker": "d)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Emissão de Cobranças por meio de Instituições de Pagamentos Integradas (Cel Coin, Safe2pay ou terceira instituição);",
+      "marker": "e)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Automação e campanhas por WhatsApp.",
+      "marker": "f)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Integração com API’s próprias, como o Obituário Digital, ou fornecidas por terceiros, como Clube de Descontos e/ou Benefícios.",
+      "marker": "g)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "As funcionalidades da Plataforma são disponibilizadas de acordo com o plano optado pelo Contratante em sua Licença de Uso. Os planos, funcionalidades ativas e valores de adesão/mensalidade constaram, de mesma forma, na Proposta Comercial encaminhada ao Contratante e no website da Plataforma Progem.",
+      "marker": "29)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada uma das funcionalidades listadas acima será exposta e explicada, com seu funcionamento devidamente demonstrado, quando do treinamento inicial do Contratante e do(s) Usuário(s), prestado ainda na fase de implantação, conforme previsto na Licença de Uso firmada entre as partes.",
+      "marker": "30)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "No caso de o Contratante/Usuário optar ou contar, em seu plano, pela prestação de serviços de terceiros integrados à Plataforma, tais como Clubes de Descontos/Benefícios, Planos Pet, entre outros, se submete às normas e regras estipuladas por referidas empresas, devendo observá-las em sua integridade, aceitando, quando solicitado, seus Termos de Uso/Serviço.",
+      "marker": "31)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Quanto à funcionalidade de Emissão de Boletos, o Contratante e/ou Usuário se submete também às políticas, normas e regras estipuladas pela Instituição Financeira eleita, dentre as disponíveis na Plataforma. Ao efetivar a cobrança através destes serviços oferecidos pela Instituição Financeira, o Contratante/Usuário declara-se ciente e exime a Awis de responsabilidade, financeira ou de qualquer outra natureza, expressamente reconhecendo que esta não possui participação na negociação e forma de pagamento, sequer figurando na cadeia de fornecimento/prestação de tais serviços, visto que sua atuação se restringe à licença de uso de Plataforma que integra funcionalidades de emissão de boletos de instituições terceiras. Políticas de chargeback, contestação de pagamentos, estornos, taxas, descontos, entre outras, são as praticadas pelas Instituições Financeiras escolhidas.",
+      "marker": "32)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Quanto à funcionalidade de Emissão de Cobranças por meio de Instituição de Pagamentos Integrada (CelCoin, Safe2Pay ou terceira parceira), o Contratante/Usuário se submete às normas e regras estipuladas por referidas empresas, devendo observá-las em sua integridade, bem como àquelas previstas junto à Licença de Uso. ",
+      "marker": "33)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": " Ao optar por CelCoin, Safe2Pay ou ainda por terceira parceira, o Contratante/Usuário deverá abrir conta em referida empresa (por meio da integração com o Sistema Progem). O cadastro garantirá acesso e uso da plataforma parceira apenas ao CNPJ do Contratante/Usuário, restando vedada a sua utilização por empresas terceiras, ainda que filiais, salvo se também figurarem como Contratantes junto à Licença de Uso.",
+      "marker": "34)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Ao efetivar as cobranças por meio dos serviços oferecidos por quaisquer das empresas, o Contratante/Usuário declara-se ciente e exime a Contratada de responsabilidade, financeira ou de qualquer outra natureza, expressamente reconhecendo que esta não possui participação na negociação e forma de pagamento, sequer figurando na cadeia de fornecimento/prestação de tais serviços, visto que sua atuação se restringe à licença de uso de Plataforma que integra funcionalidades de Emissão de Cobranças por meio de Instituição de Pagamentos Integrada, descontando-se as taxas praticadas por esta e a comissão devida à Progem pelo Split de Pagamentos, ambas previamente definidas e informadas à o Contratante/Usuário. ",
+      "marker": "35)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "O Contratante/Usuário declara-se ciente, desde logo, que a Contratada não possui qualquer relação com situações de responsabilização entre os envolvidos no negócio originário, tais como cobranças indevidas, exercício de direito de arrependimento, fato ou vício no produto ou serviço, contestações, entre outros. Ademais, políticas de chargeback, contestação de pagamentos, estornos, taxas, descontos, entre outras, são as praticadas pelas empresas parceiras (CelCoin, Safe2Pay ou terceira) - e eventuais bandeiras utilizadas -, informadas nas suas próprias plataformas e também disponíveis em seus termos (https://www.celcoin.com.br/compliance-e-regulatorio; https://safe2pay.com.br/termos-de-uso; ou os termos de uso de plataforma terceira utilizada).",
+      "marker": "36)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Em razão disso, o Contratante/Usuário se declara ciente e assume, desde logo, a responsabilidade de ressarcir a Contratada nos casos de esta vir a ser multada, penalizada, processada, condenada ou de qualquer forma instada a indenizar à parceira intermediadora de pagamentos ou terceiros, em razão prejuízos ocasionados por ações ou omissões que cabiam, exclusivamente e/ou diretamente, ao Contratante/Usuário. Incluem-se em referidos gastos não somente os valores cobrados pela parceira intermediadora, mas eventuais gastos com honorários advocatícios, despesas processuais, despesas com viagens e estadias, entre outras que se demonstrarem necessárias a solucionar a situação.",
+      "marker": "37)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Ainda quanto à funcionalidade de Emissão de Cobranças por meio de Instituição de Pagamentos Integrada (CelCoin, Safe2Pay ou terceira), o Contratante/Usuário assume o compromisso de efetuar todas as negociações, transferências e movimentações por meio da Plataforma Progem, que as comunicará por meio de API às Plataformas Parceiras. Caso o Contratante/Usuário faça tais transações diretamente dentro da Plataforma Parceira, declara-se ciente, desde já, que deverá dar baixa dos valores e inserir os dados referentes às movimentações dentro da Plataforma Progem, sob pena de ter nesta dados e relatórios desatualizados e não condizentes com a realidade (especialmente os financeiros), isentando a Progem de qualquer responsabilidade neste sentido.",
+      "marker": "38)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Para mais informações sobre as funcionalidades da Emissão de Cobranças, o Contratante/Usuário entrará em contato diretamente com a Progem, que efetivará a comunicação com a Instituição de Pagamentos Integrada (CelCoin, Safe2Pay ou terceira), a fim de solucionar os questionamentos apresentados.",
+      "marker": "39)",
+      "level": 0
+    },
+    {
+      "type": "heading",
+      "text": "DA VIGÊNCIA E ENCERRAMENTO DESTES TERMOS DE USO",
+      "id": "secao-7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estes Termos têm prazo indeterminado de validade, com vigor a partir do Aceite do Contratante e/ou Usuário no momento de seu cadastro.",
+      "marker": "40)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Estes Termos de Uso serão rescindidos prontamente com a decretação de falência ou insolvência civil de qualquer das partes ou ainda com o descumprimento de qualquer das obrigações nele estabelecidas, a critério da Awis.",
+      "marker": "41)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "A Awis poderá alterar estes Termos de Uso e a Política de Privacidade a qualquer momento, mediante notificação de mudanças ao Usuário e publicando uma versão atualizada deste documento, explicitando a data da última modificação, por meio de comunicação exposta quando do novo login do Usuário.",
+      "marker": "42)",
+      "level": 0
+    },
+    {
+      "type": "heading",
+      "text": "DAS CONDIÇÕES GERAIS",
+      "id": "secao-8"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Awis não será responsável e tampouco garantirá o cumprimento das obrigações que forem assumidas pelos Contratantes e/ou Usuários perante os terceiros, bem como destes perante aqueles, em relação às negociações efetuadas por intermédio da Plataforma. O Usuário reconhece e aceita que, ao realizar negociações com terceiros, as faz por sua própria vontade, prestando seu consentimento livremente e por seu próprio risco e responsabilidade. Em nenhum caso a Awis será responsável por lucros cessantes, ou por qualquer outro dano e/ou prejuízo que possam sofrer o Usuário, o Contratante ou o Terceiro. Caso um ou mais Usuários ou Contratantes, ou ainda algum terceiro, iniciem qualquer tipo de reclamação, ações judiciais ou medidas extrajudiciais contra outro(s) Usuário(s) ou Terceiro(s), o Usuário eximirá e manterá indene a Awis, demais empresas integrantes de seu grupo econômico e seus respectivos diretores, gerentes, empregados, contratados, agentes, representantes e procuradores de toda e qualquer responsabilidade.",
+      "marker": "43)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Não existe entre os Usuários, os Contratantes e a Awis nenhuma relação societária ou comercial além da estabelecida por meio do presente contrato, e reciprocamente se manterão livres e indenes por qualquer reclamação oriunda das obrigações tributárias, trabalhistas ou previdenciárias que forem de sua própria responsabilidade, de modo a que não induzirão pessoa alguma em erro sobre sua independência, nem obrigarão uns aos outros perante terceiros. O descumprimento desta obrigação pelo Usuário autorizará a Awis a inabilitar sua conta, sem prejuízo das medidas judiciais ou extrajudiciais que julgar cabíveis.",
+      "marker": "44)",
+      "level": 0
+    },
+    {
+      "type": "heading",
+      "text": "DAS DISPOSIÇÕES FINAIS",
+      "id": "secao-9"
+    },
+    {
+      "type": "paragraph",
+      "text": "O Usuário e/ou Contratante se declara ciente e concorda que a relação com a Awis estará sempre sujeita à legislação brasileira, independentemente do local de utilização dos serviços.",
+      "marker": "45)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Serão válidas todas as notificações realizadas aos Usuários e/ou Contratantes pela Awis via push ao realizar novo login no sistema.",
+      "marker": "46)",
+      "level": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "A nulidade ou invalidade de qualquer dos itens dispostos aqui nestes Termos de Uso e na Política de Privacidade não implica na nulidade ou invalidade dos demais. As disposições consideradas nulas ou inválidas serão reescritas, de modo a refletir a intenção inicial de sua previsão em conformidade com a legislação aplicável, e inserida em nova versão do instrumento.",
+      "marker": "47)",
+      "level": 0
+    }
+  ]
+}

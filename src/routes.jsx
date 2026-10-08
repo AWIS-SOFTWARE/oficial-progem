@@ -27,6 +27,9 @@ import ClubeBeneficios from '@/pages/ParceriasBeneficios'
 import PlanosPet from '@/pages/PlanosPet'
 import IntegracaoWhatsapp from '@/pages/IntegracaoWhatsapp'
 import Apps from '@/pages/Apps'
+import DocumentoLegal from '@/pages/DocumentoLegal'
+import termosDeUso from '@/docs/termos-de-uso.json'
+import politicaDePrivacidade from '@/docs/politica-de-privacidade.json'
 import PlanosNovos from "@/pages/PlanosNovos";
 
 export const router = createBrowserRouter([
@@ -42,6 +45,8 @@ export const router = createBrowserRouter([
         element: <PageTransitionLayout />,
         children: [
           // Público
+          { path: '/termos-de-uso', element: <DocumentoLegal documento={termosDeUso}/> },
+          { path: '/politica-de-privacidade', element: <DocumentoLegal documento={politicaDePrivacidade}/> },
           { path: '/planos-antigos', element: <PlanosPublic/> },
 
           // Interno (simulador) — protegido via PrivateGate + noindex (+ robots)
